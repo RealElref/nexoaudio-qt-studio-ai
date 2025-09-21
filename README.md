@@ -51,5 +51,4 @@ değerlerini kendi logon ve bağlantınla değiştir.
 **Sistem Gereksinimleri**
 
 - Windows 10/11, macOS, veya Linux
-- 
 - FFmpeg 6+ önerilir (arnndn/afftdn/agate/equalizer/loudnorm)
