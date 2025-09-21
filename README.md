@@ -5,17 +5,11 @@ Amaç: Tek dosyalık, FFmpeg tabanlı masaüstü uygulamasıyla videolardaki ses
 **Başlıca Özellikler**
 
 - AI Studio ve Podcast Enhance (Beta) zincirleri
-- 
 - Orijinal / Filtreli klip önizleme (video kopya, ses mono; hızlı)
-- 
 - Yüzde ilerleme ve log dosyası
-- 
 - Humanize, stil profilleri (Natural/Warm/Crisp/Radio)
-- 
 - RNNoise (.model) desteği (varsa), yoksa AFFTDN fallback
-- 
 - Dışa aktarımda her zaman işlenmiş ses
-- 
 - Logo: pencere simgesi + üst araç çubuğu + başlık satırında tıklanabilir
 
 
@@ -23,13 +17,9 @@ Amaç: Tek dosyalık, FFmpeg tabanlı masaüstü uygulamasıyla videolardaki ses
 
 
 - FFmpeg ve FFprobe sistem PATH’inde olmalı.
-- 
 - Python 3.10+ önerilir.
-- 
 - Gerekli paket:
-- 
 - pip install PySide6
-- 
 - Çalıştırma
 - python ses.py
 
